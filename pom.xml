@@ -13,6 +13,7 @@
     <groupId>org.example</groupId>
     <artifactId>produto_case_java</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>produto_case_java-1.0-SNAPSHOT</name>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
